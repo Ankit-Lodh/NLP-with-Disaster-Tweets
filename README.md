@@ -19,3 +19,6 @@ Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
+
+
+![image](https://user-images.githubusercontent.com/67375613/99491658-25bc6600-2992-11eb-94f7-e530da298bc6.png)
